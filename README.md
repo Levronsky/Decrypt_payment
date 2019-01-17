@@ -1,3 +1,3 @@
 # Decrypt_payment
 
-Code for training. The program decodes the base64 string
+Code for training purposes. The program decodes the base64 string
